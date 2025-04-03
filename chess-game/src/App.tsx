@@ -17,7 +17,6 @@ function App() {
                     />
                 </a>
             </div>
-            <h1 className="font-bold underline">Vite + React</h1>
         </>
     );
 }
