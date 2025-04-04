@@ -3,7 +3,7 @@ import "./App.css";
 function App() {
     return (
         <>
-            <div className="main-container"></div>
+            <div className="main-container">chessboard</div>
         </>
     );
 }
