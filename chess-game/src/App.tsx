@@ -4,7 +4,7 @@ function App() {
     return (
         <>
             <div className="main-container">chessboard</div>
-            <div className="side-container"></div>
+            <div className="side-container">chat</div>
         </>
     );
 }
