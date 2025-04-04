@@ -3,8 +3,10 @@ import "./App.css";
 function App() {
     return (
         <>
-            <div className="main-container">chessboard</div>
-            <div className="side-container">chat</div>
+            <div className="app">
+                <div className="main-container">chessboard</div>
+                <div className="side-container">chat window</div>
+            </div>
         </>
     );
 }
